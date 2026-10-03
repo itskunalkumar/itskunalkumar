@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kunalbtech2024-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunalbtech2024)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalbtech2024@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=itskunalkumar&label=Profile%20Views&color=00e5ff&style=for-the-badge)
+[![Profile Views](https://hits.sh/github.com/itskunalkumar.svg?style=for-the-badge&label=Profile%20Views&color=00e5ff&labelColor=203a43)](https://hits.sh/github.com/itskunalkumar/)
 ![Followers](https://img.shields.io/github/followers/itskunalkumar?style=for-the-badge&color=2c5364&logo=github)
 
 </div>
