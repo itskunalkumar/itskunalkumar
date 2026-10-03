@@ -134,7 +134,7 @@ Modular ML pipeline deployed on **AWS ECS Fargate** with automated **CI/CD**.
 
 ML security system for grid-connected microgrids: two-signal detection (**XGBoost + Isolation Forest**), **SHAP** explanations and a fail-safe risk policy. A research prototype on a single dataset.
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itskunalkumar/AI-CyberShield)
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itskunalkumar/AI-CyberShield) [![Live Demo](https://img.shields.io/badge/Live%20Demo-00e5ff?style=for-the-badge&logo=amazonaws&logoColor=black)](http://ai-cybershield-alb-870998626.ap-south-1.elb.amazonaws.com/)
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -143,7 +143,7 @@ ML security system for grid-connected microgrids: two-signal detection (**XGBoos
 
 Deep-learning quality control that classifies casting parts as OK or defective with **MobileNetV2**, **Grad-CAM** heatmaps, a REST API and a monitoring dashboard.
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itskunalkumar/Mechanical-Parts-Defect-Detection)
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itskunalkumar/Mechanical-Parts-Defect-Detection) [![Live Demo](https://img.shields.io/badge/Live%20Demo-00e5ff?style=for-the-badge&logo=streamlit&logoColor=black)](https://defect-detection-5e9g.onrender.com/)
 
 </td>
 </tr>
