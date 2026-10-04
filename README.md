@@ -43,7 +43,7 @@ class Kunal:
 
 <div align="center">
 
-| 🔍 **5% → 51%** | 💳 **100,000+** | 🧠 **6+** | 🌐 **5** |
+| 🔍 **5% → 51%** | 💳 **100,000+** | 🧠 **6+** | 🌐 **6** |
 |:---:|:---:|:---:|:---:|
 | fraud recall improvement | transactions scored | fraud models evaluated | ML apps deployed live |
 
@@ -144,6 +144,15 @@ ML security system for grid-connected microgrids: two-signal detection (**XGBoos
 Deep-learning quality control that classifies casting parts as OK or defective with **MobileNetV2**, **Grad-CAM** heatmaps, a REST API and a monitoring dashboard.
 
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itskunalkumar/Mechanical-Parts-Defect-Detection) [![Live Demo](https://img.shields.io/badge/Live%20Demo-00e5ff?style=for-the-badge&logo=streamlit&logoColor=black)](https://defect-detection-5e9g.onrender.com/)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<a href="https://github.com/itskunalkumar/Fraud-Monitoring-Dashboard"><img src="./assets/project-6-fraud-monitoring.svg" alt="project card" width="100%"/></a>
+
+Fraud detection with an **XGBoost** scoring pipeline (recall improved from 5% to 51%) and a live **Streamlit** monitoring dashboard over 100,000+ scored transactions.
+
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itskunalkumar/Fraud-Monitoring-Dashboard) [![Live Demo](https://img.shields.io/badge/Live%20Demo-00e5ff?style=for-the-badge&logo=streamlit&logoColor=black)](https://fraud-monitoring-dashboard-7azntmdythrx7bs6ixsa8f.streamlit.app/)
 
 </td>
 </tr>
